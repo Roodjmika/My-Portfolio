@@ -85,30 +85,31 @@ button-group:hover{
     background-image: url('./portfolio-pictures/picture2.jpg');
 }
 .button2{
-    width: 300px;
+    width: 500px;
     height: 100px;
     display: flex ;
     background-image: url('./portfolio-pictures/picture2.jpg')
 }
 .button3{
-    width: 300px;
+    width: 500px;
     height: 100px;
     display: flex;
     background-image: url('./portfolio-pictures/picture3.jpg') 
     
 }
 .button3{
-    width: 300px;
+    width: 500px;
     height: 100px;
     display: flex; 
     background-image: url('./portfolio-pictures/picture4.jpg');
 }
 .button4{
-    width: 300px;
+    width: 500px;
     height: 100px;
     display: flex;
     background-image: url('./portfolio-pictures/picture5.jpg');
 }
+
 
 
 
